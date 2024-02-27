@@ -1,2 +1,21 @@
 # java-news
 Go inside, find out all news feature in java for each version
+
+# java 21
+
+According to the <a href="https://openjdk.org/projects/jdk/21/spec">JSR 396<a/>
+- 430:	String Templates (Preview)
+- 431:	Sequenced Collections
+- 439:	Generational ZGC
+- 440:	Record Patterns
+- 441:	Pattern Matching for switch
+- 442:	Foreign Function & Memory API (Third Preview)
+- 443:	Unnamed Patterns and Variables (Preview)
+- 444:	Virtual Threads
+- 445:	Unnamed Classes and Instance Main Methods (Preview)
+- 446:	Scoped Values (Preview)
+- 448:	Vector API (Sixth Incubator)
+- 449:	Deprecate the Windows 32-bit x86 Port for Removal
+- 451:	Prepare to Disallow the Dynamic Loading of Agents
+- 452:	Key Encapsulation Mechanism API
+- 453:	Structured Concurrency (Preview)
