@@ -2,7 +2,19 @@ package com.zou.record_patterns;
 
 import com.zou.record_patterns.domain.*;
 
-public class PatterMatchiRecords {
+/**
+ * <p>
+ *  A record pattern consists of a record class type and a (possibly empty)
+ *  pattern list which is used to match against the corresponding record component values.
+ *     <ul>
+ *         <li>The null value does not match any record pattern</li>
+ *         <li>A record pattern can use var to match against a record component</li>
+ *         <li>An expression is compatible with a record pattern if it could be cast to the record type in the pattern without requiring an unchecked conversion.</li>
+ *     </ul>
+ *
+ * </p>
+ */
+public class PatternMatchingRecords {
 
     public void patterMatchingWithRecords(Object obj) {
 
@@ -36,5 +48,5 @@ public class PatterMatchiRecords {
 
     }
 
-    
+
 }
