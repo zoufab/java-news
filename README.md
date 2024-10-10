@@ -19,3 +19,7 @@ According to the <a href="https://openjdk.org/projects/jdk/21/spec">JSR 396<a/>
 - Prepare to Disallow the Dynamic Loading of Agents
 - Key Encapsulation Mechanism API
 - Structured Concurrency (Preview)
+
+
+# Resume: introduce SequencedCollection
+![SequencedCollection](ressources\SequencedCollectionDiagram.png)
