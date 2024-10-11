@@ -22,4 +22,4 @@ According to the <a href="https://openjdk.org/projects/jdk/21/spec">JSR 396<a/>
 
 
 # Resume: introduce SequencedCollection
-![SequencedCollection]([https://github.com/zoufab/java-news/tree/main/ressources](https://github.com/zoufab/java-news/blob/main/ressources/SequencedCollectionDiagram.png))
+![SequencedCollection](https://github.com/zoufab/java-news/tree/main/ressources](https://github.com/zoufab/java-news/blob/main/ressources/SequencedCollectionDiagram.png)
